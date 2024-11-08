@@ -1,4 +1,14 @@
 # pytorch-deeplab-xception
+# DeepLabV3+ - PyTorch Implementation
+This project implements the DeepLabV3+ model using PyTorch, 
+designed to perform semantic segmentation in images.
+
+
+## Requirements
+- Python 3.6 or higher
+- PyTorch and Torchvision
+- OpenCV
+- NumPy
 
 **Update on 2018/12/06. Provide model trained on VOC and SBD datasets.**  
 
